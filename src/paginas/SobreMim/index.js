@@ -36,11 +36,7 @@ export default function SobreMim () {
             </p>
 
             <p className={styles.paragrafo}>
-                Tempos depois entrei em outro estágio, novamente na área de infraestrutura onde permaneci por 1 ano e 9 meses, foi quando consegui minha efetivação como analista de sistemas e é onde trabalho atualmente também.
-            </p>
-
-            <p className={styles.paragrafo}>
-                Hoje em dia estou focado nos estudos em programação Front-end e busco uma vaga para uma experiência prática e real de desenvolvimento.
+                Tempos depois entrei em outro estágio, novamente na área de infraestrutura onde permaneci por 1 ano e 9 meses, foi quando consegui minha efetivação como analista de sistemas, e essa é um pouco da minha história.
             </p>
         </PostModelo>
     )
